@@ -71,6 +71,9 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
+
+- Nwani Victory - [@iamnwani01](https://github.com/vickywane) - @hng-teamdrangonbones/frontend-team - Member
+
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
 - Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member  
 - Nwosu David Ikechukwu - [@DavidNwosu](https://github.com/DavidNwosu) - @hng-teamdragonbones/frontend & backend-team - Member
@@ -79,5 +82,6 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
 - Temitayo Ajakore - [@Temmy](https://github.com/Tayo-Wunmi) - @hng-teamdragonbones/frontend-team - Member   
 - Ubah Ebuka Samuel - [@god-of-speed](https://github.com/god-of-speed) - Team
+
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
