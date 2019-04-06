@@ -16,6 +16,7 @@
 
     <?php if(isset($_POST['submit'])) {
         $new_post = array(
+          "userID" => 1,
           "title" => $_POST['title'],
           "comment" => $_POST['comment']
         );
@@ -27,14 +28,10 @@
         // to be updatd to also use user email for unique posts
         // replace spaces in title with underscores
         $fileName = str_replace(' ', '_', $_POST['title']);
-        $file = 'BlogPosts/'.$fileName.'.txt';
+        $file = 'BlogPosts/'.$fileName.'.json';
 
         // write to file
-        // title goes on first line
-        // comment follows on a new line
-        file_put_contents($file, $new_post['title']."\n".$new_post['comment']);
-
-        
+        file_put_contents($file, json_encode($new_post));
       }
     ?>
     <!-- end:: write blog post to file
