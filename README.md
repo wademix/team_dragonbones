@@ -1,16 +1,29 @@
 # Team Dragon Bones
 
-Hotel HNGs Team Dragon Bones GitHub
+HNG Internship Team Dragon Bones codebase
 
-# Collaboration and Contribution
+## Solution to task
 
-To make things completely seemless for we all and to also make collaboration more efficient. We've extended our collaboration to GitHub from Slack. It's important that we also learn the use of GitHub and how-to GitHub efficiently for project collaboration.
+Store blog posts as markdown and retrieve upon request. The title of the post and user authentication ID would make for unique file names.
+
+## Contributions
+
+The project structure is simple.
+- Page content goes in index.php file (for now, it's a single page app)
+- Page header markup goes in templates/header.php
+- Page footer markup goes in templates/footer.php
+- All styling goes in css/style.css
+- All scripting goes in js/script.js 
+- Blog Posts gets saved in BlogPosts/[name_of_file].json
+- Custom functions goes in functions/[filename].php<br/>
+- All Design assest goes in designs/
+PS: We would refactor as the project grows.
 
 ## Get started:
 
 The most important thing! Please update the README.md with your name in collaborator section at bottom of this docs. Once that's done the team lead will add you to their team and to the org.
 
-##### For Developer
+##### For Developers:
 
 - Kindly star the project :wink:
 - Open an issue for a feature or a change you'd love to work on (please, ensure that someone is not working on it by checking previous issues. Whereby an issue already exist, please still go ahead with the steps below and help the collaborator finish up the feature or changes)
@@ -51,14 +64,15 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Jude Jonathan - [@JonathanJude](https://github.com/JonathanJude) - @hng-teamdrangonbones/backend-team - Member
 - Oranye Nonso -[@OranyeNonso](https://github.com/OranyeNonso) - @hng-teamdragonbones/backend & frontend-team - Member
 - Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
-- Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Member
+- Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Lead
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
-
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
-
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
-
--Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
--Eniola Erivona - [@Eniola] - @hng-teamdrangonbones/design && front end-team - Member
+-Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
+-Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
+- Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
+- Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
+- Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member   
+- Ubah Ebuka Samuel - [@god-of-speed](https://github.com/god-of-speed) - Team
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
