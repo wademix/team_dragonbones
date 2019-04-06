@@ -68,8 +68,11 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
+<<<<<<< HEAD
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
 - Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member   
+=======
+>>>>>>> 80d7d485eb3c3d0d69d90a64e7794d43c1e3d232
 - Ojinaka Tochukwu - [@sphinxcodex](https://github.com/sphinxcodex) - @hng-teamdrangonbones/backend-team - Member (ENUMS[Member, Lead])
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
