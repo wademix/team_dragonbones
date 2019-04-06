@@ -33,7 +33,7 @@ The most important thing! Please update the README.md with your name in collabor
 - Get approvals from other collaborators (if successful, your code gets merged)
 - Congratulations
 
-##### For Designers:
+##### For Designers:  
 
 - Kindly star the project
 - Open an issue, drop the link to the design (and maybe a screenshot) in the issue
@@ -71,8 +71,12 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
+
+- Barine Sambaris - [@barrisam](https"//github.com/barrisam) - @hng-teamdragonbones/frontend-team - Member 
+
 - Nwani Victory - [@iamnwani01](https://github.com/vickywane) - @hng-teamdrangonbones/frontend-team - Member
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
+
 
 
 - Adeosun Abiola Olalekan - [@abitech105](https://github.com/abitechcoder) - @hng-teamdrangonbones/frontend-team - Member  
