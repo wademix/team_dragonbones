@@ -34,17 +34,19 @@
         file_put_contents($file, json_encode($new_post));
       }
     ?>
-    <!-- end:: write blog post to file
+    <!-- end:: write blog post to file-->
 
     <!-- begin:: load blog posts-->
     <?php
 
     require_once 'functions/Post.php';
+    
     $data = file_get_contents("BlogPosts/dragonbone.json");
     $posts = json_decode($data, true);
     $getAllPosts = Post::fetchAllPosts($posts);
     var_dump($getAllPosts);
     $posts = array();
+    
     if (!empty($getAllPosts)) {
         foreach ($getAllPosts as $blog) {
             $postId = $blog->getId();
@@ -66,6 +68,7 @@
         $result['error'] = true;
         $result['message'] = 'internal server error';
     }
+    
     echo(json_encode($result));
     ?>
     <!-- end:: load blog posts-->
