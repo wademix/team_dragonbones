@@ -41,29 +41,24 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
 - Sholademi Elijah - [@haywhy43](https://github.com/haywhy43) @hng-teamdrangonbones/frontend-team- Member
 - Tobalase Akinyemi - [@funspectre](https://github.com/funspectre) - @hng-teamdrangonbones/backend-team - Member
-- Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) -  @hng-teamdrangonbones/fontend-team - Member
-- Ogundiji Bolade - [@adroit11](https://github.com/adroit11) -  @hng-teamdrangonbones/backend-team && design - Member
-- Alikali Ojonugwa - [@ojonugwa001](https://github.com/ojonugwa001) -  @hng-teamdrangonbones/frontend-team - Team Lead
-
-- Kingsley Omin - [@ojonugwa001](https://github.com/ojonugwa001) -  @hng-teamdrangonbones/design-team - Team Lead
-- Raphael Noriode -[@oghenebrume50](https://github.com/oghenebrume50) @hng-teamdrangonbones/frontend-team- Member
-
-- Kingsley Omin - [@kingsleyomin](https://github.com/kingsleyomin) -  @hng-teamdrangonbones/design-team - Team Lead
-
-- Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
-
-
-
-- Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) - @hng-teamdrangonbones/fontend-team - Member
+- Abdulhakeem Abdulazeez - [@ayoazeez26](https://www.github.com/Ayoazeez26) - @hng-teamdragonbones/frontend-team - Member
+- Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) - @hng-teamdrangonbones/frontend-team - Member
 - Ogundiji Bolade - [@adroit11](https://github.com/adroit11) - @hng-teamdrangonbones/backend-team && design - Member
 - Alikali Ojonugwa - [@ojonugwa001](https://github.com/ojonugwa001) - @hng-teamdrangonbones/frontend-team - Team Lead
 - Kingsley Omin - [@ojonugwa001](https://github.com/ojonugwa001) - @hng-teamdrangonbones/design-team - Team Lead
+- Irene Okafor - [@Irene-24](https://github.com/Irene-24) -  @hng-teamdrangonbones/frontend-team - member
+- Raphael Noriode -[@oghenebrume50](https://github.com/oghenebrume50) @hng-teamdrangonbones/frontend-team- Member
 - Jude Jonathan - [@JonathanJude](https://github.com/JonathanJude) - @hng-teamdrangonbones/backend-team - Member
+- Oranye Nonso -[@OranyeNonso](https://github.com/OranyeNonso) - @hng-teamdragonbones/backend & frontend-team - Member
+- Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
+- Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Member
+- Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
 
+- Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 
+- Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
 
 -Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
 -Eniola Erivona - [@Eniola] - @hng-teamdrangonbones/design && front end-team - Member
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
-
