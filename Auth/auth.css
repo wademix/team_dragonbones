@@ -14,7 +14,7 @@ body
 
 .container
 {
-    width:70vw;
+    width:90vw;
     border-radius: 10px;
     margin: 40px auto;
     text-align: center;
@@ -89,6 +89,11 @@ button:hover
 
 @media (min-width:768px)
 {
+    .container
+    {
+        width:70vw;    
+    }
+
     button
     {       
         width:35%;
