@@ -1,10 +1,22 @@
 # Team Dragon Bones
 
-Hotel HNGs Team Dragon Bones GitHub
+HNG Internship Team Dragon Bones codebase
 
-# Collaboration
+## Solution to task
 
-To make things completely seemless for we all and to also make collaboration more efficient. We've extended our collaboration to GitHub from Slack. It's important that we also learn the use of GitHub and how-to GitHub efficiently for project collaboration.
+Store blog posts in a json file and retrieve upon request. The title of the post and user authentication ID would make for unique file names.
+
+## Contributions
+
+The project structure is simple.
+- Page content goes in index.php file (for now, it's a single page app)
+- Page header markup goes in templates/header.php
+- Page footer markup goes in templates/footer.php
+- All styling goes in css/style.css
+- All scripting goes in js/script.js 
+- Blog Posts gets saved in BlogPosts/[name_of_file].json
+- Custom functions go in functions/[filename].php<br/>
+PS: We would refactor as the project grows.
 
 ## Get started:
 
@@ -58,15 +70,3 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
-
-## Contributions
-
-The project structure is simple.
-- Page content goes in index.php file (for now, it's a single page app)
-- Page header markup goes in templates/header.php
-- Page footer markup goes in templates/footer.php
-- All styling goes in css/style.css
-- All scripting goes in js/script.js 
-- Blog Posts gets saved in BlogPosts/[name_of_file].json
-- Custom functions go in functions/[filename].php<br/>
-PS: We would refactor as the project grows.
