@@ -73,7 +73,8 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 -Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
-- Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member   
+- Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member
+- Temitayo Ajakore - [@Temmy](https://github.com/Tayo-Wunmi) - @hng-teamdragonbones/frontend-team - Member   
 - Ubah Ebuka Samuel - [@god-of-speed](https://github.com/god-of-speed) - Team
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
