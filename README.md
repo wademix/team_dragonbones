@@ -74,5 +74,5 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member   
 =======
 >>>>>>> 80d7d485eb3c3d0d69d90a64e7794d43c1e3d232
-- Ojinaka Tochukwu - [@sphinxcodex](https://github.com/sphinxcodex) - @hng-teamdrangonbones/backend-team - Member (ENUMS[Member, Lead])
+- Ojinaka Tochukwu - [@sphinxcodex](https://github.com/sphinxcodex) - @hng-teamdrangonbones/backend-team - Member
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
