@@ -53,9 +53,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
 - Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Member
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
-
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
-
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
 
 
