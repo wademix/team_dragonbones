@@ -10,7 +10,7 @@ To make things completely seemless for we all and to also make collaboration mor
 
 The most important thing! Please update the README.md with your name in collaborator section at bottom of this docs. Once that's done the team lead will add you to their team and to the org.
 
-##### For Developer
+##### For Developers:
 
 - Kindly star the project :wink:
 - Open an issue for a feature or a change you'd love to work on (please, ensure that someone is not working on it by checking previous issues. Whereby an issue already exist, please still go ahead with the steps below and help the collaborator finish up the feature or changes)
@@ -55,6 +55,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
+- Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
