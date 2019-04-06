@@ -4,7 +4,7 @@ HNG Internship Team Dragon Bones codebase
 
 ## Solution to task
 
-Store blog posts in a json file and retrieve upon request. The title of the post and user authentication ID would make for unique file names.
+Store blog posts as markdown and retrieve upon request. The title of the post and user authentication ID would make for unique file names.
 
 ## Contributions
 
