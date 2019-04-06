@@ -11,7 +11,7 @@
 <?php
 
 require_once 'functions/Post.php';
-$data = file_get_contents("dragonbone.json");
+$data = file_get_contents("BlogPosts/dragonbone.json");
 $posts = json_decode($data, true);
 $getAllPosts = Post::fetchAllPosts($posts);
 var_dump($getAllPosts);

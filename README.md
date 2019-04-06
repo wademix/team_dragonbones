@@ -66,5 +66,6 @@ The project structure is simple.
 - Page footer markup goes in templates/footer.php
 - All styling goes in css/style.css
 - All scripting goes in js/script.js 
-- Blog Posts gets saved in BlogPosts/[name_of_file].json<br/>
+- Blog Posts gets saved in BlogPosts/[name_of_file].json
+- Custom functions go in functions/[filename].php<br/>
 PS: We would refactor as the project grows.
