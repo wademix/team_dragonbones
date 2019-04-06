@@ -4,7 +4,7 @@ HNG Internship Team Dragon Bones codebase
 
 ## Solution to task
 
-Store blog posts in a json file and retrieve upon request. The title of the post and user authentication ID would make for unique file names.
+Store blog posts as markdown and retrieve upon request. The title of the post and user authentication ID would make for unique file names.
 
 ## Contributions
 
@@ -54,6 +54,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
 - Sholademi Elijah - [@haywhy43](https://github.com/haywhy43) @hng-teamdrangonbones/frontend-team- Member
 - Tobalase Akinyemi - [@funspectre](https://github.com/funspectre) - @hng-teamdrangonbones/backend-team - Member
+- Xavier Ihee - [@Altarmir](https://github.com/Altarmir) -  @hng-teamdrangonbones/frontend-team - Member
 - Abdulhakeem Abdulazeez - [@ayoazeez26](https://www.github.com/Ayoazeez26) - @hng-teamdragonbones/frontend-team - Member
 - Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) - @hng-teamdrangonbones/frontend-team - Member
 - Ogundiji Bolade - [@adroit11](https://github.com/adroit11) - @hng-teamdrangonbones/backend-team && design - Member
@@ -68,9 +69,12 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
+-Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
+-Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
 - Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member
-- Temitayo Ajakore - [@Temmy](https://github.com/Tayo-Wunmi) - @hng-teamdragonbones/frontend-team - Member     
+- Temitayo Ajakore - [@Temmy](https://github.com/Tayo-Wunmi) - @hng-teamdragonbones/frontend-team - Member   
+- Ubah Ebuka Samuel - [@god-of-speed](https://github.com/god-of-speed) - Team
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
