@@ -73,8 +73,14 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
 - Nwani Victory - [@iamnwani01](https://github.com/vickywane) - @hng-teamdrangonbones/frontend-team - Member
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
-- Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member
+
+
+- Adeosun Abiola Olalekan - [@abitech105](https://github.com/abitechcoder) - @hng-teamdrangonbones/frontend-team - Member  
+
+- Adeleye Olamdie - [@Olamide](https://github.com/larmie56) - @hng-teamdragonbones/mobile dev - Member   
+
 - Akerele Babatunde - [@trafiki](https://github.com/trafiki) - @hng-teamdrangonbones/frontend & backend-team - Member
+
 - Anuoluwapo Akinseye - [@an-apluss](https://github.com/an-apluss) - @hng-teamdragonbones/backend-team, design & frontend - Member
 - Nwosu David Ikechukwu - [@DavidNwosu](https://github.com/DavidNwosu) - @hng-teamdragonbones/frontend & backend-team - Member
 - Igunnu Emmanuel - [@Brainz] (https://github.com/Daemonicc) -@hng-teamdrangonbones/backend-team - Member
@@ -82,5 +88,6 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
 - Temitayo Ajakore - [@Temmy](https://github.com/Tayo-Wunmi) - @hng-teamdragonbones/frontend-team - Member   
 - Ubah Ebuka Samuel - [@god-of-speed](https://github.com/god-of-speed) - Team
+
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
