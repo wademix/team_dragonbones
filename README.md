@@ -63,6 +63,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 
 
 -Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
+-Eniola Erivona - [@Eniola] - @hng-teamdrangonbones/design && front end-team - Member
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
