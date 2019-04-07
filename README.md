@@ -86,7 +86,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Eniola Erivona - [@Eniola](https://github.com/Eniola) - @hng-teamdrangonbones/frontend-team - Member
 - Temitayo Ajakore - [@Temmy](https://github.com/Tayo-Wunmi) - @hng-teamdragonbones/frontend-team - Member   
 - Ubah Ebuka Samuel - [@god-of-speed](https://github.com/god-of-speed) - Team
-- Atilola Oluwatobiloba - [@iamatila](https://github.com/iamatila) - @hng-teamdrangonbones/frontend-team - Member
+- Atilola Oluwatobiloba - [@iamatila](C) - @hng-teamdrangonbones/frontend-team - Member
 -Oketunde Michael Daralola - @gelgit [https://github.com/sparkidea25] - @hng-teamdragonbones/frontend - team - Member
-
+- Paul Rapulu - [@rapulu](https://github.com/rapulu) - @hng-teamdragonbones/backend-team - member
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
