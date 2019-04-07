@@ -57,7 +57,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Xavier Ihee - [@Altarmir](https://github.com/Altarmir) -  @hng-teamdrangonbones/frontend-team - Member
 - Abdulhakeem Abdulazeez - [@ayoazeez26](https://www.github.com/Ayoazeez26) - @hng-teamdragonbones/frontend-team - Member
 - Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) - @hng-teamdrangonbones/frontend-team - Member
-- Ogundiji Bolade - [@adroit11](https://github.com/adroit11) - @hng-teamdrangonbones/backend-team && design - Member
+- Ogundiji Bolade - [@adroit11](https://github.com/adroit11) - @hng-teamdrangonbones/backend-team && design - Team Lead
 - Alikali Ojonugwa - [@ojonugwa001](https://github.com/ojonugwa001) - @hng-teamdrangonbones/frontend-team - Team Lead
 - Kingsley Omin - [@ojonugwa001](https://github.com/ojonugwa001) - @hng-teamdrangonbones/design-team - Team Lead
 - Irene Okafor - [@Irene-24](https://github.com/Irene-24) -  @hng-teamdrangonbones/frontend-team - member
@@ -66,12 +66,13 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Oranye Nonso -[@OranyeNonso](https://github.com/OranyeNonso) - @hng-teamdragonbones/backend & frontend-team - Member
 - Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
 - Akpan Akan - [@Akan](https://github.com/akanstein) - @hng-teamdrangonbones/frontend & backend-team - Member
-- Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Lead
+- Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Team Lead
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
 - Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
 - Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
 - Nathanael Bakare - [@nathyjegs](https://github.com/nathyjegs) - @hng-teamdrangonbones/frontend-team - Member
 - Amaizu Melody - [@lettaz]- @hng-teamdragonbones/design-team - Member
+- Ridwan Oyedele - [@readlearn] (https://github.com/readlearn) - @hng-teamdrangonbones/frontend-team - Team Lead
 - Barine Sambaris - [@barrisam](https"//github.com/barrisam) - @hng-teamdragonbones/frontend-team - Member 
 - Nwani Victory - [@iamnwani01](https://github.com/vickywane) - @hng-teamdrangonbones/frontend-team - Member
 - Akinyemi Taiwo   - [@karrim4real](https://github.com/karrim-real) - @hng-teamdrangonbones/frontend-team - Member
