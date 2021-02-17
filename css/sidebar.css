@@ -1,0 +1,138 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.sidebar {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-auto-rows: auto;
+    grid-gap: 10px;
+    margin: 20px;
+    height: 100%;
+    
+}
+
+.left_sidebar {
+    background-color:#12171D;
+    padding-top: 60px;
+    
+    
+   
+}
+
+
+
+#image {
+    width: 80px;
+    max-width: 100%;
+    height: 80px;
+    border: 3px solid blue;
+    border-radius: 130px;
+    position: relative;
+    background: url("https://res.cloudinary.com/barine/image/upload/v1554495447/Sunglasses_Emoji.png");
+    background-size: cover;
+    margin: auto;
+    
+    
+}
+
+#desc {
+    text-align: center;
+    color: white;
+}
+
+hr {
+    width: 100%;
+    outline: 1px solid black;
+    background-color: black;
+}
+
+h4 {
+    font-family: Content;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0;
+}
+
+#desc p {
+    color: red;
+    font-family: Content;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0;
+}
+
+.fa-medium, .fa-facebook, .fa-twitter{
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+}
+
+aside {
+    padding: 40px;
+}
+
+aside span {
+    color: rgb(221, 54, 54);
+    font-family: Content;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    
+}
+
+.fa-file-text{
+    color: rgb(221, 54, 54);
+    padding-right: 6px;
+    font-size: 20px;
+    float: left;
+    clear: both;
+}
+
+.fa-user {
+    color: rgb(107, 199, 107);
+    padding-right: 6px;
+    font-size: 20px;
+    float: left;
+    clear: both;
+}
+
+.fa-envelope {
+    color: rgb(109, 107, 199);
+    padding-right: 6px;
+    font-size: 20px;
+    float: left;
+    clear: both;
+}
+
+li {
+    list-style: none;
+    margin-left: 30px;
+    color: white;
+    font-family: Content;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+    padding: 2px;
+}
+
+.other_side {
+    background-color: white;
+}
+
+
+
+
+
+
+
+    
